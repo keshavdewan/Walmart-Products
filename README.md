@@ -22,4 +22,8 @@ Walmart as we all know has its stores all over the world. This dataset discusses
 - 03 Scripts - contains Python Notebook 
 - 04 Analysis - contains Power BI Visualization File
 
+# Credits & Sources
+
+
+
 The Python Notebook has been made at a beginner level scale where most of the things have been explained and can be used for future reference for conducting analysis.
