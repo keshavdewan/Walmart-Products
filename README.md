@@ -1,4 +1,5 @@
 # Walmart-Products
+![Walmart Products](https://github.com/keshavdewan/Walmart-Products/blob/main/01%20Project%20Management/Walmart.png)
 Walmart as we all know has its stores all over the world. This dataset discusses the presence of the products in the Walmart stores and how the pricing differentiates across different products and departments.
 
 # Analysis Criteria
@@ -21,3 +22,4 @@ Walmart as we all know has its stores all over the world. This dataset discusses
 - 03 Scripts - contains Python Notebook 
 - 04 Analysis - contains Power BI Visualization File
 
+The Python Notebook has been made at a beginner level scale where most of the things have been explained and can be used for future reference for conducting analysis.
